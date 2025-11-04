@@ -1,0 +1,16 @@
+{
+  "name": "create-ur-ass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-ur-ass": "./index.js"
+  },
+  "keywords": ["simple", "backend", "template", "backend template", "simple backend", "template backend","templates"],
+  "author": "İbrahim Halil Sezgin",
+  "license": "ISC",
+  "description": "simple backend template"
+}
