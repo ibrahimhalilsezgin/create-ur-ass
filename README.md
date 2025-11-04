@@ -1,6 +1,8 @@
 # Create Your Ass
 ###### simple backend template
 ```bash
+npm install --global create-ur-ass
+
 npx create-ur-ass <Project Name> 
 ```
 

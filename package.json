@@ -1,6 +1,6 @@
 {
   "name": "create-ur-ass",
-  "version": "1.0.0",
+  "version": "1.0.2-latest",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,5 +12,10 @@
   "keywords": ["simple", "backend", "template", "backend template", "simple backend", "template backend","templates"],
   "author": "İbrahim Halil Sezgin",
   "license": "ISC",
-  "description": "simple backend template"
+  "description": "simple backend template",
+  "repository": {
+    "url": "https://github.com/ibrahimhalilsezgin/create-ur-ass",
+    "type": "github"
+
+  }
 }
